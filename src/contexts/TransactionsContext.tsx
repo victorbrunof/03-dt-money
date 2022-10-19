@@ -28,6 +28,7 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
 
     setTransactions(data);
   }
+
   useEffect(() => {
     loadTransactions();
   }, []);
