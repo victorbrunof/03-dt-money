@@ -3,7 +3,6 @@ import { useForm } from "react-hook-form";
 import { SearchFormContainer } from "./styles";
 import * as z from "zod";
 import { zodResolver } from "@hookform/resolvers/zod";
-import { useContext } from "react";
 import { TransactionsContext } from "../../../../contexts/TransactionsContext";
 import { useContextSelector } from "use-context-selector";
 

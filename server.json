@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2022-10-19T22:59:08.088Z",
       "id": 5
+    },
+    {
+      "description": "Sorvete",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-10-19T23:56:38.676Z",
+      "id": 6
     }
   ]
 }
